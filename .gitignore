@@ -1,0 +1,83 @@
+# ==========================================
+# Nyaya AI — Git Ignore Configuration
+# ==========================================
+
+# --- AI Assistant & IDE Internal Metadata ---
+.agent/
+.agents/
+.gemini/
+.gsd/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Python & Backend ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Local Environment Secrets & Databases (NEVER commit secrets!)
+backend/.env
+*.env
+*.env.local
+*.db
+*.sqlite3
+nyaya_ai.db
+backend/nyaya_ai.db
+
+# Vector Index & Uploaded User Data
+backend/data/uploads/*
+!backend/data/uploads/.gitkeep
+backend/data/vector_store/*
+!backend/data/vector_store/.gitkeep
+
+# --- Node.js & React Native / Expo ---
+node_modules/
+mobile/node_modules/
+.expo/
+mobile/.expo/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Mobile Build Artifacts
+*.orig.*
+[A-Za-z0-9_]*.apk
+[A-Za-z0-9_]*.aab
+*.keystore
+!debug.keystore
+
+# macOS & Windows System Files
+.DS_Store
+Thumbs.db
+Desktop.ini

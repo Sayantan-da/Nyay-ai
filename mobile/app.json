@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Nyaya AI",
+    "slug": "nyaya-ai",
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F8F7F4"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.nyaya.ai"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "method": "FAISS_ONLY",
+    "total_test_cases": 50,
+    "in_scope_cases": 43,
+    "out_of_scope_cases": 7,
+    "hit_rate_pct": 83.72,
+    "mrr": 0.7403,
+    "precision_at_k": 0.3023,
+    "recall_at_k": 0.8372,
+    "abstention_accuracy_pct": 85.71,
+    "avg_latency_ms": 0.12
+  },
+  {
+    "method": "BM25_PLUS_FAISS",
+    "total_test_cases": 50,
+    "in_scope_cases": 43,
+    "out_of_scope_cases": 7,
+    "hit_rate_pct": 93.02,
+    "mrr": 0.876,
+    "precision_at_k": 0.3566,
+    "recall_at_k": 0.9302,
+    "abstention_accuracy_pct": 85.71,
+    "avg_latency_ms": 0.4
+  },
+  {
+    "method": "HYBRID_PLUS_RERANKER",
+    "total_test_cases": 50,
+    "in_scope_cases": 43,
+    "out_of_scope_cases": 7,
+    "hit_rate_pct": 100.0,
+    "mrr": 0.9729,
+    "precision_at_k": 0.3798,
+    "recall_at_k": 1.0,
+    "abstention_accuracy_pct": 85.71,
+    "avg_latency_ms": 0.95
+  }
+]

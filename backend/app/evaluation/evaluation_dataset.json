@@ -1,0 +1,452 @@
+[
+  {
+    "id": "tc_01",
+    "question": "What is Zero FIR and where can I register it under BNSS?",
+    "expected_source": "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+    "expected_section": "173",
+    "expected_topic": "Zero FIR Registration & Police Duties",
+    "difficulty": "easy",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_02",
+    "question": "Can I report a crime at a police station outside my residential area?",
+    "expected_source": "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+    "expected_section": "173",
+    "expected_topic": "Zero FIR Registration & Police Duties",
+    "difficulty": "medium",
+    "category": "paraphrased"
+  },
+  {
+    "id": "tc_03",
+    "question": "What does Section 173 of BNSS 2023 state about cognizable cases?",
+    "expected_source": "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+    "expected_section": "173",
+    "expected_topic": "Zero FIR Registration & Police Duties",
+    "difficulty": "easy",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_04",
+    "question": "What are my rights if arrested without a warrant under Section 35 of BNSS?",
+    "expected_source": "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+    "expected_section": "35",
+    "expected_topic": "Arrest Safeguards & Bail Notice",
+    "difficulty": "easy",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_05",
+    "question": "Does police have to inform my family member if I get arrested?",
+    "expected_source": "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+    "expected_section": "35",
+    "expected_topic": "Arrest Safeguards & Bail Notice",
+    "difficulty": "medium",
+    "category": "normal"
+  },
+  {
+    "id": "tc_06",
+    "question": "What is the emergency helpline number for unauthorized UPI fraud and cyber scams?",
+    "expected_source": "Information Technology Act, 2000 & BNS 2023",
+    "expected_section": "66C/66D",
+    "expected_topic": "Cybercrime, Online Scams & UPI Financial Fraud",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_07",
+    "question": "Someone stole money from my Google Pay account. How do I freeze the transaction immediately?",
+    "expected_source": "Information Technology Act, 2000 & BNS 2023",
+    "expected_section": "66C/66D",
+    "expected_topic": "Cybercrime, Online Scams & UPI Financial Fraud",
+    "difficulty": "medium",
+    "category": "paraphrased"
+  },
+  {
+    "id": "tc_08",
+    "question": "What section of IT Act covers identity theft and impersonation?",
+    "expected_source": "Information Technology Act, 2000 & BNS 2023",
+    "expected_section": "66C/66D",
+    "expected_topic": "Cybercrime, Online Scams & UPI Financial Fraud",
+    "difficulty": "easy",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_09",
+    "question": "My landlord refused to refund my Rs 50000 security deposit after vacating.",
+    "expected_source": "Model Tenancy Act & Indian Contract Act, 1872",
+    "expected_section": "11/73",
+    "expected_topic": "Rental & Tenancy Rights",
+    "difficulty": "medium",
+    "category": "ambiguous"
+  },
+  {
+    "id": "tc_10",
+    "question": "Can a landlord forcefully throw out a tenant without court notice?",
+    "expected_source": "Model Tenancy Act & Indian Contract Act, 1872",
+    "expected_section": "11/73",
+    "expected_topic": "Rental & Tenancy Rights",
+    "difficulty": "medium",
+    "category": "normal"
+  },
+  {
+    "id": "tc_11",
+    "question": "What are the rules regarding tenant notice period and lock-in period forfeiture?",
+    "expected_source": "Model Tenancy Act & Indian Contract Act, 1872",
+    "expected_section": "11/73",
+    "expected_topic": "Rental & Tenancy Rights",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_12",
+    "question": "How do I file a consumer complaint on e-Daakhil for defective goods?",
+    "expected_source": "Consumer Protection Act, 2019",
+    "expected_section": "35",
+    "expected_topic": "Consumer Grievance Redressal & E-Commerce",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_13",
+    "question": "E-commerce company delivered damaged laptop and refused return or refund.",
+    "expected_source": "Consumer Protection Act, 2019",
+    "expected_section": "35",
+    "expected_topic": "Consumer Grievance Redressal & E-Commerce",
+    "difficulty": "medium",
+    "category": "ambiguous"
+  },
+  {
+    "id": "tc_14",
+    "question": "What is the National Consumer Helpline number?",
+    "expected_source": "Consumer Protection Act, 2019",
+    "expected_section": "35",
+    "expected_topic": "Consumer Grievance Redressal & E-Commerce",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_15",
+    "question": "Are WhatsApp chats and audio recordings valid evidence in Indian courts?",
+    "expected_source": "Bharatiya Sakshya Adhiniyam (BSA), 2023",
+    "expected_section": "61/63",
+    "expected_topic": "Digital Evidence & Electronic Proof",
+    "difficulty": "medium",
+    "category": "normal"
+  },
+  {
+    "id": "tc_16",
+    "question": "What sections of BSA 2023 govern the admissibility of electronic records?",
+    "expected_source": "Bharatiya Sakshya Adhiniyam (BSA), 2023",
+    "expected_section": "61/63",
+    "expected_topic": "Digital Evidence & Electronic Proof",
+    "difficulty": "easy",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_17",
+    "question": "What is an Internal Committee under POSH Act 2013 and who must constitute it?",
+    "expected_source": "Sexual Harassment of Women at Workplace (POSH) Act, 2013",
+    "expected_section": "4/9",
+    "expected_topic": "Workplace Harassment & Women's Rights",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_18",
+    "question": "What is the time limit for a woman to submit a sexual harassment complaint under POSH?",
+    "expected_source": "Sexual Harassment of Women at Workplace (POSH) Act, 2013",
+    "expected_section": "4/9",
+    "expected_topic": "Workplace Harassment & Women's Rights",
+    "difficulty": "medium",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_19",
+    "question": "Can an aggrieved woman get paid leave during a workplace harassment inquiry?",
+    "expected_source": "Sexual Harassment of Women at Workplace (POSH) Act, 2013",
+    "expected_section": "4/9",
+    "expected_topic": "Workplace Harassment & Women's Rights",
+    "difficulty": "medium",
+    "category": "normal"
+  },
+  {
+    "id": "tc_20",
+    "question": "What relief can a woman get under the Domestic Violence Act 2005?",
+    "expected_source": "Protection of Women from Domestic Violence Act, 2005",
+    "expected_section": "12/17/18",
+    "expected_topic": "Domestic Violence Safeguards & Reliefs",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_21",
+    "question": "Does a wife have the right to reside in a shared household under PWDVA Section 17?",
+    "expected_source": "Protection of Women from Domestic Violence Act, 2005",
+    "expected_section": "12/17/18",
+    "expected_topic": "Domestic Violence Safeguards & Reliefs",
+    "difficulty": "medium",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_22",
+    "question": "What is the procedure when a bank cheque bounces for insufficient balance?",
+    "expected_source": "Negotiable Instruments Act, 1881",
+    "expected_section": "138",
+    "expected_topic": "Cheque Dishonour, Notice Timeline & Criminal Liability",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_23",
+    "question": "What is the 30-day notice requirement under Section 138 of Negotiable Instruments Act?",
+    "expected_source": "Negotiable Instruments Act, 1881",
+    "expected_section": "138",
+    "expected_topic": "Cheque Dishonour, Notice Timeline & Criminal Liability",
+    "difficulty": "medium",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_24",
+    "question": "How many days does the drawer get to pay after cheque bounce demand notice?",
+    "expected_source": "Negotiable Instruments Act, 1881",
+    "expected_section": "138",
+    "expected_topic": "Cheque Dishonour, Notice Timeline & Criminal Liability",
+    "difficulty": "medium",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_25",
+    "question": "How many days does a PIO have to respond to an RTI application?",
+    "expected_source": "Right to Information Act, 2005",
+    "expected_section": "6/7",
+    "expected_topic": "RTI Filing, Fee and Time Limits",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_26",
+    "question": "Under RTI, what is the deadline if information involves life or personal liberty?",
+    "expected_source": "Right to Information Act, 2005",
+    "expected_section": "6/7",
+    "expected_topic": "RTI Filing, Fee and Time Limits",
+    "difficulty": "medium",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_27",
+    "question": "Can I claim monthly interest if builder delays flat possession under RERA?",
+    "expected_source": "Real Estate (Regulation and Development) Act, 2016",
+    "expected_section": "14/18",
+    "expected_topic": "Buyer Rights, Builder Delays & Workmanship Defect Warranty",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_28",
+    "question": "What is the structural defect warranty period given by builders under RERA?",
+    "expected_source": "Real Estate (Regulation and Development) Act, 2016",
+    "expected_section": "14/18",
+    "expected_topic": "Buyer Rights, Builder Delays & Workmanship Defect Warranty",
+    "difficulty": "medium",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_29",
+    "question": "Who is eligible for free legal aid in India under Article 39A and NALSA?",
+    "expected_source": "Constitution of India & Legal Services Authorities Act, 1987",
+    "expected_section": "Article 39A / Sec 12",
+    "expected_topic": "NALSA Free Legal Aid & Fundamental Rights",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_30",
+    "question": "What is the toll-free helpline number for NALSA free legal services?",
+    "expected_source": "Constitution of India & Legal Services Authorities Act, 1987",
+    "expected_section": "Article 39A / Sec 12",
+    "expected_topic": "NALSA Free Legal Aid & Fundamental Rights",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_31",
+    "question": "landlord deposit?",
+    "expected_source": "Model Tenancy Act & Indian Contract Act, 1872",
+    "expected_section": "11/73",
+    "expected_topic": "Rental & Tenancy Rights",
+    "difficulty": "hard",
+    "category": "ambiguous"
+  },
+  {
+    "id": "tc_32",
+    "question": "online money lost upi",
+    "expected_source": "Information Technology Act, 2000 & BNS 2023",
+    "expected_section": "66C/66D",
+    "expected_topic": "Cybercrime, Online Scams & UPI Financial Fraud",
+    "difficulty": "hard",
+    "category": "ambiguous"
+  },
+  {
+    "id": "tc_33",
+    "question": "police complaint station refusal",
+    "expected_source": "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+    "expected_section": "173",
+    "expected_topic": "Zero FIR Registration & Police Duties",
+    "difficulty": "hard",
+    "category": "ambiguous"
+  },
+  {
+    "id": "tc_34",
+    "question": "How to file patent application in the United States PTO?",
+    "expected_source": "NONE",
+    "expected_section": "NONE",
+    "expected_topic": "OUT_OF_SCOPE",
+    "difficulty": "hard",
+    "category": "out_of_scope"
+  },
+  {
+    "id": "tc_35",
+    "question": "What are French inheritance laws for non-citizens?",
+    "expected_source": "NONE",
+    "expected_section": "NONE",
+    "expected_topic": "OUT_OF_SCOPE",
+    "difficulty": "hard",
+    "category": "out_of_scope"
+  },
+  {
+    "id": "tc_36",
+    "question": "Can I obtain a divorce under the Martian Colonial Marriage Treaty of 2099?",
+    "expected_source": "NONE",
+    "expected_section": "NONE",
+    "expected_topic": "OUT_OF_SCOPE",
+    "difficulty": "hard",
+    "category": "adversarial"
+  },
+  {
+    "id": "tc_37",
+    "question": "Please cite Section 999 of the Indian Galactic Space Piracy Act 2024.",
+    "expected_source": "NONE",
+    "expected_section": "NONE",
+    "expected_topic": "OUT_OF_SCOPE",
+    "difficulty": "hard",
+    "category": "adversarial"
+  },
+  {
+    "id": "tc_38",
+    "question": "What is the penalty under Section 420A of the Federal Crypto Currency Statute of India?",
+    "expected_source": "NONE",
+    "expected_section": "NONE",
+    "expected_topic": "OUT_OF_SCOPE",
+    "difficulty": "hard",
+    "category": "adversarial"
+  },
+  {
+    "id": "tc_39",
+    "question": "Tell me the recipe for chicken biryani with saffron.",
+    "expected_source": "NONE",
+    "expected_section": "NONE",
+    "expected_topic": "OUT_OF_SCOPE",
+    "difficulty": "easy",
+    "category": "out_of_scope"
+  },
+  {
+    "id": "tc_40",
+    "question": "What is the capital of Australia?",
+    "expected_source": "NONE",
+    "expected_section": "NONE",
+    "expected_topic": "OUT_OF_SCOPE",
+    "difficulty": "easy",
+    "category": "out_of_scope"
+  },
+  {
+    "id": "tc_41",
+    "question": "Can police arrest someone without telling them why?",
+    "expected_source": "Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023",
+    "expected_section": "35",
+    "expected_topic": "Arrest Safeguards & Bail Notice",
+    "difficulty": "medium",
+    "category": "paraphrased"
+  },
+  {
+    "id": "tc_42",
+    "question": "What should a woman do if facing mental and physical torture by in-laws at home?",
+    "expected_source": "Protection of Women from Domestic Violence Act, 2005",
+    "expected_section": "12/17/18",
+    "expected_topic": "Domestic Violence Safeguards & Reliefs",
+    "difficulty": "medium",
+    "category": "normal"
+  },
+  {
+    "id": "tc_43",
+    "question": "Can an aggrieved citizen appeal against a PIO rejection?",
+    "expected_source": "Right to Information Act, 2005",
+    "expected_section": "6/7",
+    "expected_topic": "RTI Filing, Fee and Time Limits",
+    "difficulty": "medium",
+    "category": "normal"
+  },
+  {
+    "id": "tc_44",
+    "question": "What is the fee for an RTI application in India?",
+    "expected_source": "Right to Information Act, 2005",
+    "expected_section": "6/7",
+    "expected_topic": "RTI Filing, Fee and Time Limits",
+    "difficulty": "easy",
+    "category": "normal"
+  },
+  {
+    "id": "tc_45",
+    "question": "Does an employer have to form a committee for women's safety if there are only 12 workers?",
+    "expected_source": "Sexual Harassment of Women at Workplace (POSH) Act, 2013",
+    "expected_section": "4/9",
+    "expected_topic": "Workplace Harassment & Women's Rights",
+    "difficulty": "medium",
+    "category": "paraphrased"
+  },
+  {
+    "id": "tc_46",
+    "question": "Can I present WhatsApp screenshots in court if someone threatened me digitally?",
+    "expected_source": "Bharatiya Sakshya Adhiniyam (BSA), 2023",
+    "expected_section": "61/63",
+    "expected_topic": "Digital Evidence & Electronic Proof",
+    "difficulty": "medium",
+    "category": "normal"
+  },
+  {
+    "id": "tc_47",
+    "question": "What is Section 35 of CPA 2019 about consumer filing?",
+    "expected_source": "Consumer Protection Act, 2019",
+    "expected_section": "35",
+    "expected_topic": "Consumer Grievance Redressal & E-Commerce",
+    "difficulty": "easy",
+    "category": "exact_legal"
+  },
+  {
+    "id": "tc_48",
+    "question": "Can an indigent undertrial prisoner get a free lawyer?",
+    "expected_source": "Constitution of India & Legal Services Authorities Act, 1987",
+    "expected_section": "Article 39A / Sec 12",
+    "expected_topic": "NALSA Free Legal Aid & Fundamental Rights",
+    "difficulty": "medium",
+    "category": "paraphrased"
+  },
+  {
+    "id": "tc_49",
+    "question": "How many days does builder have to fix structural defects after possession?",
+    "expected_source": "Real Estate (Regulation and Development) Act, 2016",
+    "expected_section": "14/18",
+    "expected_topic": "Buyer Rights, Builder Delays & Workmanship Defect Warranty",
+    "difficulty": "medium",
+    "category": "normal"
+  },
+  {
+    "id": "tc_50",
+    "question": "What is the penalty if convicted under Section 138 of Negotiable Instruments Act?",
+    "expected_source": "Negotiable Instruments Act, 1881",
+    "expected_section": "138",
+    "expected_topic": "Cheque Dishonour, Notice Timeline & Criminal Liability",
+    "difficulty": "easy",
+    "category": "exact_legal"
+  }
+]
